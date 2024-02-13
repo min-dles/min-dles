@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hello 👾✨
 
-my name is mandi (they/them) and I'm a full-stack engineer with great attention to detail and accessibility focus. Over the past year I've made the move to a tech career after previously studying architecture and Spanish, teaching English abroad in South Korea, and working as a disability case manager. I'm passionate about accessibility, love learning new things, and find joy in reading & writing. I believe that technology is meant to improve our lives and bring us together, so let me know if you'd like to work on any projects together!
+my name is mandi (they/them) and I'm a full-stack engineer with great attention to detail and accessibility focus. I believe that technology is meant to improve our lives and bring us together, so let me know if you'd like to work on any projects together!
 
 - 🔭 I’m currently working on building a Next.js website for the podcast [Gyst Rewind](https://gyst-rewind-podcast.netlify.app) (check out my repo here on GitHub!) 
 - 🌱 I’m currently learning the fundamentals of C#/.NET via Microsoft Learn & freeCodeCamp certification
